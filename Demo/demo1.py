@@ -1,3 +1,5 @@
-print("New project ")
 
-print("Changes added")
+class Test:
+
+    def test(self):
+        print("Hello Girlish")
